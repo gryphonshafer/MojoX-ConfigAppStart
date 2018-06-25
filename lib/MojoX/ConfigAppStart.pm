@@ -85,6 +85,21 @@ C<Application::Control> library is derived:
 
     Mojolicious::Commands->start_app('Application::Control');
 
+=head1 METHODS
+
+The following is the only method provided:
+
+=head2 start
+
+The C<start()> method calls L<Mojolicious::Commands>'s C<start_app()> and
+returns the result.
+
+    MojoX::ConfigAppStart->start;
+
+It can optionally be provided an explicit module name:
+
+    MojoX::ConfigAppStart->start('Application::Control');
+
 =head1 SEE ALSO
 
 You can look for additional information at:
