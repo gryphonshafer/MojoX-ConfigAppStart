@@ -106,9 +106,7 @@ You can look for additional information at:
 
 =for :list
 * L<GitHub|https://github.com/gryphonshafer/MojoX-ConfigAppStart>
-* L<CPAN|http://search.cpan.org/dist/MojoX-ConfigAppStart>
 * L<MetaCPAN|https://metacpan.org/pod/MojoX::ConfigAppStart>
-* L<AnnoCPAN|http://annocpan.org/dist/MojoX-ConfigAppStart>
 * L<Travis CI|https://travis-ci.org/gryphonshafer/MojoX-ConfigAppStart>
 * L<Coveralls|https://coveralls.io/r/gryphonshafer/MojoX-ConfigAppStart>
 * L<CPANTS|http://cpants.cpanauthors.org/dist/MojoX-ConfigAppStart>
