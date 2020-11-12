@@ -1,6 +1,8 @@
 Revision history for MojoX::ConfigAppStart
 
 {{$NEXT}}
+        - Migrate Travis CI and Coveralls to GitHub Actions and Codecov
+        - Update copyright year
         - Update Travis YAML
 
 1.01      2018-06-25 13:57:52-07:00 America/Los_Angeles
