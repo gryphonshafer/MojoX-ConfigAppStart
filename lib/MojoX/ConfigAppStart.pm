@@ -41,8 +41,8 @@ __END__
 =begin :badges
 
 =for markdown
-[![Build Status](https://travis-ci.org/gryphonshafer/MojoX-ConfigAppStart.svg)](https://travis-ci.org/gryphonshafer/MojoX-ConfigAppStart)
-[![Coverage Status](https://coveralls.io/repos/gryphonshafer/MojoX-ConfigAppStart/badge.png)](https://coveralls.io/r/gryphonshafer/MojoX-ConfigAppStart)
+[![build](https://github.com/gryphonshafer/MojoX-ConfigAppStart/workflows/build/badge.svg)](https://github.com/gryphonshafer/MojoX-ConfigAppStart/actions?query=workflow%3Abuild)
+[![codecov](https://codecov.io/gh/gryphonshafer/MojoX-ConfigAppStart/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/MojoX-ConfigAppStart)
 
 =end :badges
 
@@ -107,8 +107,8 @@ You can look for additional information at:
 =for :list
 * L<GitHub|https://github.com/gryphonshafer/MojoX-ConfigAppStart>
 * L<MetaCPAN|https://metacpan.org/pod/MojoX::ConfigAppStart>
-* L<Travis CI|https://travis-ci.org/gryphonshafer/MojoX-ConfigAppStart>
-* L<Coveralls|https://coveralls.io/r/gryphonshafer/MojoX-ConfigAppStart>
+* L<GitHub Actions|https://github.com/gryphonshafer/MojoX-ConfigAppStart/actions>
+* L<Codecov|https://codecov.io/gh/gryphonshafer/MojoX-ConfigAppStart>
 * L<CPANTS|http://cpants.cpanauthors.org/dist/MojoX-ConfigAppStart>
 * L<CPAN Testers|http://www.cpantesters.org/distro/G/MojoX-ConfigAppStart.html>
 
