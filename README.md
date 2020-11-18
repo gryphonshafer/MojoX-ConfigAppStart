@@ -6,7 +6,7 @@ MojoX::ConfigAppStart - Start a Mojolicious application with Config::App
 
 version 1.02
 
-[![build](https://github.com/gryphonshafer/MojoX-ConfigAppStart/workflows/build/badge.svg)](https://github.com/gryphonshafer/MojoX-ConfigAppStart/actions?query=workflow%3Abuild)
+[![test](https://github.com/gryphonshafer/MojoX-ConfigAppStart/workflows/test/badge.svg)](https://github.com/gryphonshafer/MojoX-ConfigAppStart/actions?query=workflow%3Atest)
 [![codecov](https://codecov.io/gh/gryphonshafer/MojoX-ConfigAppStart/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/MojoX-ConfigAppStart)
 
 # SYNOPSIS
