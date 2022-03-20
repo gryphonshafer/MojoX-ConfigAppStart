@@ -4,7 +4,7 @@ MojoX::ConfigAppStart - Start a Mojolicious application with Config::App
 
 # VERSION
 
-version 1.02
+version 1.03
 
 [![test](https://github.com/gryphonshafer/MojoX-ConfigAppStart/workflows/test/badge.svg)](https://github.com/gryphonshafer/MojoX-ConfigAppStart/actions?query=workflow%3Atest)
 [![codecov](https://codecov.io/gh/gryphonshafer/MojoX-ConfigAppStart/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/MojoX-ConfigAppStart)
@@ -80,7 +80,7 @@ Gryphon Shafer <gryphon@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
-This software is Copyright (c) 2018-2021 by Gryphon Shafer.
+This software is Copyright (c) 2018-2050 by Gryphon Shafer.
 
 This is free software, licensed under:
 
