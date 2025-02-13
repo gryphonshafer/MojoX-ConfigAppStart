@@ -1,7 +1,7 @@
 package MojoX::ConfigAppStart;
 # ABSTRACT: Start a Mojolicious application with Config::App
 
-use 5.008;
+use 5.016;
 use strict;
 use warnings;
 use Carp 'croak';
